@@ -1,0 +1,45 @@
+[
+  {
+    "employeeId": "1",
+    "employeeType": "FTE",
+    "employeeName": "George",
+    "employeeSalary": "75000"
+  },
+  {
+    "employeeId": "2",
+    "employeeType": "FTE",
+    "employeeName": "Stephan",
+    "employeeSalary": "50000"
+  },
+  {
+    "employeeId": "3",
+    "employeeType": "Manager",
+    "employeeName": "Veronica",
+    "team": [
+      "2",
+      "4"
+    ]
+  },
+  {
+    "employeeId": "4",
+    "employeeType": "Manager",
+    "employeeName": "Christopher",
+    "team": [
+      "1",
+      "5"
+    ]
+  },
+  {
+    "employeeId": "5",
+    "employeeType": "FTE",
+    "employeeName": "Mary",
+    "employeeSalary": "100000"
+  },
+  {
+    "employeeId": "6",
+    "employeeType": "Contractor",
+    "employeeName": "Brian",
+    "employeeWage": 100,
+    "employeeHours": 20
+  }
+]
